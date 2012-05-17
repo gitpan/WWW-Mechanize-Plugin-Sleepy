@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+Sleepy.pm
+dist.ini
+t/sleepy.t
+weaver.ini

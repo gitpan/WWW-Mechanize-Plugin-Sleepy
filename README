@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution WWW-Mechanize-Plugin-Sleepy,
+version 0.001:
+
+  A WWW::Mechanize plugin to provide the behaviour of WWW::Mechanize::Sleepy while using WWW::Mechanize::Pluggable
+
+This software is copyright (c) 2012 by Foxtons Ltd.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
