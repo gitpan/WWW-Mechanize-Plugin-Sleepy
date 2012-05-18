@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution WWW-Mechanize-Plugin-Sleepy,
-version 0.001:
+version 0.002:
 
   A WWW::Mechanize plugin to provide the behaviour of WWW::Mechanize::Sleepy while using WWW::Mechanize::Pluggable
 
