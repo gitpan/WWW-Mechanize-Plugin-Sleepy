@@ -1,5 +1,7 @@
 package WWW::Mechanize::Plugin::Sleepy;
 
+our $VERSION = '0.003'; # VERSION
+
 # ABSTRACT: A WWW::Mechanize plugin to provide the behaviour of WWW::Mechanize::Sleepy while using WWW::Mechanize::Pluggable
 
 use strict;
@@ -77,9 +79,11 @@ sub _sleep {
 
 1;
 
-
 __END__
+
 =pod
+
+=encoding utf-8
 
 =head1 NAME
 
@@ -87,7 +91,7 @@ WWW::Mechanize::Plugin::Sleepy - A WWW::Mechanize plugin to provide the behaviou
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SYNOPSIS
 
@@ -151,9 +155,28 @@ L<WWW::Mechanize::Pluggable>
 
 =back
 
+=for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
+
+=head1 SUPPORT
+
+=head2 Bugs / Feature Requests
+
+Please report any bugs or feature requests through the issue tracker
+at L<https://github.com/mjemmeson/www-mechanize-plugin-sleepy/issues>.
+You will be notified automatically of any progress on your issue.
+
+=head2 Source Code
+
+This is open source software.  The code repository is available for
+public review and contribution under the terms of the license.
+
+L<https://github.com/mjemmeson/www-mechanize-plugin-sleepy>
+
+  git clone git://github.com/mjemmeson/www-mechanize-plugin-sleepy.git
+
 =head1 AUTHOR
 
-Michael Jemmeson <michael.jemmeson@gmail.com>
+Michael Jemmeson <michael.jemmeson@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
@@ -163,4 +186,3 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
